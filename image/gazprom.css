@@ -1,0 +1,16 @@
+-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+font-size: 14px;
+line-height: 1.428571429;
+color: #333333;
+font-family: 'din', Arial, sans-serif;
+box-sizing: border-box;
+display: block;
+position: relative;
+min-height: 50px;
+border: 1px solid transparent;
+border-radius: 4px;
+border-color: #e7e7e7;
+background: linear-gradient(to top, #f7f8f8, #fff);
+-webkit-box-shadow: 0px 3px 10px #b3b1ad;
+margin-bottom: 0;
+z-index: 99;
